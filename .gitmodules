@@ -24,7 +24,7 @@
 	url = https://gitee.com/nwpu-yjh/cutorch
 [submodule "pkg/torch"]
 	path = pkg/torch
-	url = https://gitee.com/ZJRLMirrors/torch7
+	url = https://gitee.com/lkty/torch7.git
 [submodule "pkg/sundown"]
 	path = pkg/sundown
 	url = https://gitee.com/johnblack/sundown-ffi
