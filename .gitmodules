@@ -1,87 +1,87 @@
 [submodule "exe/luajit-rocks"]
 	path = exe/luajit-rocks
-	url = git://github.com/torch/luajit-rocks.git
+	url = https://gitee.com/raisingstar/luajit-rocks
 [submodule "exe/qtlua"]
 	path = exe/qtlua
-	url = git://github.com/torch/qtlua.git
+	url = https://gitee.com/johnblack/qtlua
 [submodule "pkg/dok"]
 	path = pkg/dok
-	url = git://github.com/torch/dok.git
+	url = https://gitee.com/johnblack/dok
 [submodule "pkg/gnuplot"]
 	path = pkg/gnuplot
-	url = git://github.com/torch/gnuplot.git
+	url = https://gitee.com/johnblack/gnuplot
 [submodule "pkg/paths"]
 	path = pkg/paths
-	url = git://github.com/torch/paths.git
+	url = https://gitee.com/johnblack/paths
 [submodule "pkg/cwrap"]
 	path = pkg/cwrap
-	url = git://github.com/torch/cwrap.git
+	url = https://gitee.com/johnblack/cwrap
 [submodule "extra/cunn"]
 	path = extra/cunn
-	url = git://github.com/torch/cunn.git
+	url = https://gitee.com/lkty/cunn.git
 [submodule "extra/cutorch"]
 	path = extra/cutorch
-	url = git://github.com/torch/cutorch.git
+	url = https://gitee.com/nwpu-yjh/cutorch
 [submodule "pkg/torch"]
 	path = pkg/torch
-	url = git://github.com/torch/torch7.git
+	url = https://gitee.com/ZJRLMirrors/torch7
 [submodule "pkg/sundown"]
 	path = pkg/sundown
-	url = git://github.com/torch/sundown-ffi.git
+	url = https://gitee.com/johnblack/sundown-ffi
 [submodule "pkg/qttorch"]
 	path = pkg/qttorch
-	url = git://github.com/torch/qttorch.git
+	url = https://gitee.com/johnblack/qttorch
 [submodule "pkg/xlua"]
 	path = pkg/xlua
-	url = git://github.com/torch/xlua.git
+	url = https://gitee.com/johnblack/xlua
 [submodule "pkg/sys"]
 	path = pkg/sys
-	url = git://github.com/torch/sys.git
+	url = https://gitee.com/johnblack/sys
 [submodule "pkg/image"]
 	path = pkg/image
-	url = git://github.com/torch/image.git
+	url = https://gitee.com/johnblack/image
 [submodule "pkg/optim"]
 	path = pkg/optim
-	url = git://github.com/torch/optim.git
+	url = https://gitee.com/zouxinyi0625/optim
 [submodule "extra/threads"]
 	path = extra/threads
-	url = git://github.com/torch/threads-ffi.git
+	url = https://gitee.com/johnblack/threads-ffi
 [submodule "extra/argcheck"]
 	path = extra/argcheck
-	url = git://github.com/torch/argcheck.git
+	url = https://gitee.com/johnblack/argcheck
 [submodule "extra/cudnn"]
 	path = extra/cudnn
-	url = git://github.com/soumith/cudnn.torch.git
+	url = https://gitee.com/johnblack/cudnn.torch
 [submodule "exe/trepl"]
 	path = exe/trepl
-	url = git://github.com/torch/trepl.git
+	url = https://gitee.com/johnblack/trepl
 [submodule "extra/nnx"]
 	path = extra/nnx
-	url = git://github.com/clementfarabet/lua---nnx.git
+	url = https://gitee.com/johnblack/lua---nnx
 [submodule "extra/nn"]
 	path = extra/nn
-	url = git://github.com/torch/nn.git
+	url = https://gitee.com/xuzuoteng/nn
 [submodule "exe/env"]
 	path = exe/env
-	url = git://github.com/torch/env.git
+	url = https://gitee.com/johnblack/env
 [submodule "extra/graph"]
 	path = extra/graph
-	url = git://github.com/torch/graph
+	url = https://gitee.com/johnblack/graph
 [submodule "extra/nngraph"]
 	path = extra/nngraph
-	url = git://github.com/torch/nngraph
+	url = https://gitee.com/johnblack/nngraph
 [submodule "extra/luaffifb"]
 	path = extra/luaffifb
-	url = git://github.com/facebook/luaffifb
+	url = https://gitee.com/lkty/luaffifb.git
 [submodule "extra/luafilesystem"]
 	path = extra/luafilesystem
-	url = git://github.com/keplerproject/luafilesystem.git
+	url = https://gitee.com/EmergingTechnologies/luafilesystem
 [submodule "extra/penlight"]
 	path = extra/penlight
-	url = git://github.com/stevedonovan/Penlight.git
+	url = https://gitee.com/johnblack/Penlight
 [submodule "extra/lua-cjson"]
 	path = extra/lua-cjson
-	url = git://github.com/mpx/lua-cjson
+	url = https://gitee.com/metaworm/lua-cjson
 [submodule "extra/moses"]
 	path = extra/moses
-	url = git://github.com/Yonaba/Moses.git
+	url = https://gitee.com/nwpu-yjh/Moses
