@@ -45,7 +45,7 @@
 	url = git://github.com/torch/optim.git
 [submodule "extra/threads"]
 	path = extra/threads
-	url = https://github.com/torch/threads-ffi.git
+	url = git://github.com/torch/threads-ffi.git
 [submodule "extra/argcheck"]
 	path = extra/argcheck
 	url = git://github.com/torch/argcheck.git
